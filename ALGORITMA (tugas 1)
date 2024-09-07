@@ -1,0 +1,29 @@
+> Algoritma menentukan bilangan ganji atau genap
+        》 inisiasi
+            1. masukkan angka
+        》 proses
+            2. jika angka dibagi 2 sisanya adalah 0 maka angka tersebut genap, jika tidak maka angka tersebut ganjil.
+        》 output
+            3. cetak angka
+
+> Algoritma menghitung luas lingkaran 
+        》 inisiasi
+            4. jari jari dalam cm
+            5. luas dalam cm²
+            6. phi adalah 3,14
+        》 proses
+            7. hitung luas = phi * jari jari * jari jari 
+        》 output 
+            8. tampilkan luas
+
+> Algoritma menentukan semester mahasiswa berdasarkan tahun masuk
+        》 inisiasi 
+            1. tahun masuk mahasiswa 
+            2. tahun saat ini
+            3. semester saat ini
+        》 proses 
+            4. hitung selisih tahun antara tahun saat ini dan tahun masuk:
+            5. hitung semester total yang telah dilalui
+        》 output 
+            6. semester total adalah semester yang sedang dijalani mahasiswa tersebut
+ 
